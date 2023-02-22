@@ -1,12 +1,12 @@
 {
   "name": "lw3-freshman-l10-nft",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Demo application to mint a NFT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Markus Eicher",
+  "author": "markuseicher@outlook.com",
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "hardhat": "^2.12.7"
